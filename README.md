@@ -7,7 +7,7 @@ File 'demo.m' shows a simple and direct way to run the ONR algorithm.
 File 'evaluation.m' provides an easily extended framework to evaluate different band selection methods on different datasets. One can get a accuracy curve by running 'evaluation.m'.
 
 Note that in order to successfully run 'evaluation.m', Libsvm for Matlab should be installed at first.
-If you want to evaluate the algorithm on datasets other than Indian Pines, they should also be downloaded in advance.
+If you want to evaluate the algorithm on datasets other than Indian Pines, you should also download them in advance.
 
 Link for Libsvm: [https://www.csie.ntu.edu.tw/~cjlin/libsvm/](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 

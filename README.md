@@ -2,7 +2,7 @@
 
 This repo provides a Matlab implementation of the conference paper "Optimal Neighboring Reconstruction for Hyperspectral Band Selection, IGARSS 2018".
 
-File 'demo.m' shows a simple and direct way to run the ONR algorithm. 
+File 'demo.m' shows a simple and direct way to run the ONR algorithm by giving the hyperspectral dataset. 
 
 File 'evaluation.m' provides an easily extended framework to evaluate different band selection methods on different datasets by classification accuracy. One can get a accuracy curve by running 'evaluation.m'.
 

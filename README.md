@@ -43,3 +43,8 @@ KSC Dataset
 <img src="fig/10.png" width='40%' height='35%' />
 Botswana Dataset
 </center>
+
+
+Please kindly cite our paper if you use our code in your research. Thanks and hope you will benefit from our code. 
+
+Q. Wang, F. Zhang, and X. Li, "Hyperspectral Band Selection via Optimal Neighborhood Reconstruction", Transaction on Geoscience and Remote Sensing (T-GRS), DOI: 10.1109/TGRS.2020.2987955, 2020

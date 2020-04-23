@@ -1,6 +1,6 @@
 ## Optimal Neighboring Reconstruction for Hyperspectral Band Selection
 
-This repo provides a Matlab implementation of the conference paper "Optimal Neighboring Reconstruction for Hyperspectral Band Selection, IGARSS 2018".
+This repo provides a Matlab implementation of the conference paper "Hyperspectral Band Selection via Optimal Neighborhood Reconstruction", Transaction on Geoscience and Remote Sensing, 2020.
 
 File 'demo.m' shows a simple and direct way to run the ONR algorithm by giving the hyperspectral dataset. 
 
